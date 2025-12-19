@@ -1,13 +1,14 @@
 # VPN-Setup-and-Usage
 <p align="center">
 
-<img src="https://i.imgur.com/Clzj7Xs.png" alt="osTicket logo"/>
+<img width="855" height="318" alt="image" src="https://github.com/user-attachments/assets/a0e30f13-6364-4578-8bd2-85bdc75d3ffe" />
+
 
 </p>
 
-<h1>osTicket - Prerequisites and Installation</h1>
+<h1> VPN Setup And Installation</h1>
 
-This tutorial outlines the prerequisites and installation of the open-source help desk ticketing system osTicket.<br />
+This tutorial outlines the installation of a A VPN (Virtual Private Network).<br />
 
 <h2>Environments and Technologies Used</h2>
 
