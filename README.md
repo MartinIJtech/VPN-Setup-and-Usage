@@ -12,39 +12,24 @@ This tutorial outlines the installation of a A VPN (Virtual Private Network).<br
 
 <h2>Environments and Technologies Used</h2>
 
-- Microsoft Azure (Virtual Machines/Compute)
+- Microsoft Azure (Virtual Machines/Computer)
 
-- Remote Desktop
+- Personal Computer
 
-- Internet Information Services (IIS)
-
-<h2>Operating Systems Used </h2>
-
-- Windows 10</b> (21H2)
-
-<h2>List of Prerequisites</h2>
-
-- Item 1
-
-- Item 2
-
-- Item 3
-
-- Item 4
-
-- Item 5
+- Proton VPN 
 
 <h2>Installation Steps</h2>
 
 <p>
 
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img width="2312" height="1800" alt="image" src="https://github.com/user-attachments/assets/7ad86f88-2bf8-4250-b16b-ba7c28840fa4" />
+
 
 </p>
 
 <p>
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+To begin you are going to go to whatismyipaddress.com to observe and confirm what your IP address is.
 
 </p>
 
@@ -52,13 +37,26 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 <p>
 
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img width="2310" height="1800" alt="image" src="https://github.com/user-attachments/assets/2e627378-1cea-41eb-94ca-096c561c63fa" />
+
 
 </p>
 
 <p>
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+<img width="2313" height="1592" alt="image" src="https://github.com/user-attachments/assets/635d5786-116e-4018-a9bd-021503126c81" />
+
+
+
+</p>
+
+<p>
+
+After getting your IP address along with the additional information of the city and country it would be best to use a note pad or your computers note feature to keep track of it so we can come back to it later.
+
+<br />
+
+<p>
 
 </p>
 
@@ -73,4 +71,358 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 <p>
 
 Lorem ipsum dolor
+
+<br />
+
+<p>
+
+<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+
+</p>
+
+<p>
+
+Lorem ipsum dolor
+
+<br />
+
+<p>
+
+<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+
+</p>
+
+<p>
+
+Lorem ipsum dolor
+
+<br />
+
+<p>
+
+<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+
+</p>
+
+<p>
+
+Lorem ipsum dolor
+
+<br />
+
+<p>
+
+<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+
+</p>
+
+<p>
+
+Lorem ipsum dolor
+
+<br />
+
+<p>
+
+<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+
+</p>
+
+<p>
+
+Lorem ipsum dolor
+
+<br />
+
+<p>
+
+<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+
+</p>
+
+<p>
+
+Lorem ipsum dolor
+
+<br />
+
+<p>
+
+<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+
+</p>
+
+<p>
+
+Lorem ipsum dolor
+
+<br />
+
+<p>
+
+<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+
+</p>
+
+<p>
+
+Lorem ipsum dolor
+
+<br />
+
+<p>
+
+<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+
+</p>
+
+<p>
+
+Lorem ipsum dolor
+
+<br />
+
+<p>
+
+<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+
+</p>
+
+<p>
+
+Lorem ipsum dolor
+
+<br />
+
+<p>
+
+<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+
+</p>
+
+<p>
+
+Lorem ipsum dolor
+
+<br />
+
+<p>
+
+<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+
+</p>
+
+<p>
+
+Lorem ipsum dolor
+
+<br />
+
+<p>
+
+<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+
+</p>
+
+<p>
+
+Lorem ipsum dolor
+
+<br />
+
+<p>
+
+<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+
+</p>
+
+<p>
+
+Lorem ipsum dolor
+
+<br />
+
+<p>
+
+<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+
+</p>
+
+<p>
+
+Lorem ipsum dolor
+
+<br />
+
+<p>
+
+<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+
+</p>
+
+<p>
+
+Lorem ipsum dolor
+
+<br />
+
+<p>
+
+<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+
+</p>
+
+<p>
+
+Lorem ipsum dolor
+
+<br />
+
+<p>
+
+<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+
+</p>
+
+<p>
+
+Lorem ipsum dolor
+
+<br />
+
+<p>
+
+<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+
+</p>
+
+<p>
+
+Lorem ipsum dolor
+
+<br />
+
+<p>
+
+<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+
+</p>
+
+<p>
+
+Lorem ipsum dolor
+
+<br />
+
+<p>
+
+<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+
+</p>
+
+<p>
+
+Lorem ipsum dolor
+
+<br />
+
+<p>
+
+<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+
+</p>
+
+<p>
+
+Lorem ipsum dolor
+
+<br />
+
+<p>
+
+<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+
+</p>
+
+<p>
+
+Lorem ipsum dolor
+
+<br />
+
+<p>
+
+<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+
+</p>
+
+<p>
+
+Lorem ipsum dolor
+
+<br />
+
+<p>
+
+<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+
+</p>
+
+<p>
+
+Lorem ipsum dolor
+
+<br />
+
+<p>
+
+<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+
+</p>
+
+<p>
+
+Lorem ipsum dolor
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
