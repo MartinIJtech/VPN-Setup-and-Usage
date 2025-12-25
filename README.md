@@ -16,7 +16,9 @@ This tutorial outlines the installation of a A VPN (Virtual Private Network).<br
 
 - Personal Computer
 
-- Proton VPN 
+- Proton VPN
+
+- Windows App
 
 <h2>Installation Steps</h2>
 
@@ -64,13 +66,22 @@ After getting your IP address along with the additional information of the city 
 
 <p>
 
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img width="2307" height="1800" alt="image" src="https://github.com/user-attachments/assets/9be768d1-3565-4e7d-85f2-7b6cee03369b" />
+
+
+<img width="2308" height="1800" alt="image" src="https://github.com/user-attachments/assets/b1fbaae0-b3f3-4fe7-81d9-ab796ba35eb3" />
+
+
+<img width="2307" height="1800" alt="image" src="https://github.com/user-attachments/assets/be4abefb-a955-44e5-8c2e-2ee043d3e894" />
+
+
+<img width="2309" height="1800" alt="image" src="https://github.com/user-attachments/assets/76d5e09a-871d-4b13-956d-7105cf0bcf75" />
 
 </p>
 
 <p>
 
-Lorem ipsum dolor
+
 
 <br />
 
