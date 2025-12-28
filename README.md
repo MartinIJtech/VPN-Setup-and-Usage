@@ -81,31 +81,44 @@ After getting your IP address along with the additional information of the city 
 
 <p>
 
+Now go into your browser and go into azure so we can create a virtual machine. These next steps would help in completing your virtual machine 
+- Create a new resource group and name it whatever’s best for you. 
+- In the region put a different location( in this example its going to be Africa)
+- In the image category put windows 11 or 10 if it is there.
+- Choose a size to run the azure account in
+- Then pick a username and password that you want.
+- Click next in the bottom section until your able to create the VM
 
 
 <br />
 
 <p>
+<img width="1150" height="667" alt="Screenshot 2025-12-28 at 2 59 41 PM" src="https://github.com/user-attachments/assets/37be67e6-e020-40fc-b41b-00a0f2a67c58" />
 
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 
 </p>
 
 <p>
 
-Lorem ipsum dolor
+After refreshing Your VM page you should see your new Virtual machine. if you click it on the right hand side you will see your ip address for the VM
 
 <br />
 
 <p>
 
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img width="2307" height="1743" alt="image" src="https://github.com/user-attachments/assets/76d611b4-7117-4874-97e7-239dc8845400" />
+
+
+<img width="2306" height="1279" alt="image" src="https://github.com/user-attachments/assets/1ce76ee4-5710-448c-9e88-073a6b82fd70" />
+
+
+<img width="2297" height="1286" alt="image" src="https://github.com/user-attachments/assets/00d1b9ce-8602-4728-a5ac-ff799ec079d7" />
 
 </p>
 
 <p>
 
-Lorem ipsum dolor
+With the virtual machine created go into the windows app and add a new PC.
 
 <br />
 
