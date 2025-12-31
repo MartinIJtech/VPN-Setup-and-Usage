@@ -150,11 +150,15 @@ Now you should be logged into the virtual machine, use  the Microsoft edge web b
 
 <img width="2307" height="1701" alt="image" src="https://github.com/user-attachments/assets/9c7ead03-3467-4530-ab6a-a9d58c17686f" />
 
+
+<img width="2307" height="1800" alt="image" src="https://github.com/user-attachments/assets/5474ff53-31a6-4e5d-abba-9e8d7a749b99" />
+
+
 </p>
 
 <p>
 
-
+Now going back to your actual computer we are going to sign up for the free version of Proton VPN. After the signup process is completed go back into the virtual machine and log into Proton VPN there. Once signed in download proton VPN to your computer(mac or windows).
 
 <br />
 
