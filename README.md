@@ -202,19 +202,31 @@ This tutorial outlines the installation of a A VPN (Virtual Private Network).<br
 
  Based on the server that Proton Connected you to you should see a change in IP addresses location. We can double check this by visiting Whatismyipadress.com to verify the change.
 
-  Using the paper or document we used to write down all the IP address info we can also go back and see how our personal info changed through out the course of this demonstration.
+  Using the paper or document we used to write down all the IP address info we can also go back and see how our personal info changed through out the course of this demonstration. Continue to test for yourself different websites and see what differences you notice.
 
 <br />
 
 <p>
 
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<h2>Things you can do with a VPN</h2>
 
 </p>
 
 <p>
 
-Lorem ipsum dolor
+Now that you have a VPN there is a lot of interesting things you can do with it besides just adding security to your browsing.
+
+
+- Access global streaming libraries: Watch shows on Netflix, Hulu, or BBC iPlayer as if you were in the UK, US, or other countries. 
+
+- Watch region-locked live sports: Bypass blackouts to catch local games or access international broadcasts. 
+
+- Unblock social media & apps: Access sites like YouTube, Facebook, or WhatsApp in restrictive regions. 
+
+- Get better deals on flights, hotels, subscriptions, and online purchases by connecting to servers in different countries.
+
+- Avoid price discrimination: Stop websites from showing you higher prices based on your location. 
+
 
 <br />
 
