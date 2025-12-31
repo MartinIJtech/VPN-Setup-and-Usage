@@ -33,14 +33,15 @@ This tutorial outlines the installation of a A VPN (Virtual Private Network).<br
 
 <p>
 
-<img width="2312" height="1800" alt="image" src="https://github.com/user-attachments/assets/7ad86f88-2bf8-4250-b16b-ba7c28840fa4" />
+<img width="2295" height="1547" alt="image" src="https://github.com/user-attachments/assets/e0e3a6d7-6c5a-4ccf-9e7d-a23729ae52dc" />
+
 
 
 </p>
 
 <p>
 
- To begin you are going to go to whatismyipaddress.com to observe and confirm what your IP address is.
+ To begin you are going to start on your actual computer and go to your web browser. On your web browser go to whatismyipaddress.com to observe and confirm what your IP address is.
 
 </p>
 
@@ -90,7 +91,7 @@ This tutorial outlines the installation of a A VPN (Virtual Private Network).<br
 
 <p>
 
- Now go into your browser and go into azure so we can create a virtual machine. These next steps would help in completing your virtual machine 
+ Now go into your browser and log into azure so we can create a virtual machine. These next steps would help in completing your virtual machine 
 - Create a new resource group and name it whatever’s best for you. 
 - In the region put a different location( in this example its going to be Africa)
 - In the image category put windows 11 or 10 if it is there.
@@ -109,7 +110,7 @@ This tutorial outlines the installation of a A VPN (Virtual Private Network).<br
 
 <p>
 
- After refreshing Your VM page you should see your new Virtual machine. if you click it on the right hand side you will see your ip address for the VM
+ After refreshing the page you should see your new Virtual machine available to click. Once you click it on the right hand side of the page you will see your ip address for the VM, make sure you copy it as we will be using it in the following sections
 
 <br />
 
@@ -232,13 +233,37 @@ Now that you have a VPN there is a lot of interesting things you can do with it 
 
 <p>
 
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<h2>Conclusion</h2>
 
 </p>
 
 <p>
 
-Lorem ipsum dolor
+In conclusion, using a VPN is a simple way to stay safer and more private online. It helps protect personal information by hiding your IP address and securing your internet connection, especially on public Wi-Fi. Knowing how to use a VPN properly makes it easier to browse the internet with more confidence. Here is a simplified check list of the demonstration just incase you need a refresher.
+
+1. (Create Virtual Machine in Azure)
+
+-Browse to https://whatismyipaddress.com/ FROM WITHIN YOUR OWN MACHINE and take note of this in a text file
+
+-Create a Resource Group
+
+-Create a Windows 10 Virtual Machine in another geographic location (try a different country)
+
+-Log into the VM with Remote Desktop
+
+-Browse to https://whatismyipaddress.com/ and take note of this in a text file
+
+2. (Sign up for ProtonVPN and test the VPN connection)
+
+-On your actual computer, sign up for the free version of Proton VPN https://account.protonvpn.com/signup?plan=free&language=en  
+
+-Back within your VM, download the Proton VPN client
+
+-Login to the VPN (https://account.protonvpn.com/login) and choose a VPN server in yet another country (such as Japan)
+
+-Browse to https://whatismyipaddress.com/  and take note of this in a text file
+
+Try browsing to Google, Disney, and/or Amazon and see if there is anything different about the sites in relation to the location of your VPN server. For example, the language or URL may be different.
 
 <br />
 
