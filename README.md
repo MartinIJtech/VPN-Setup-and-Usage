@@ -20,6 +20,15 @@ This tutorial outlines the installation of a A VPN (Virtual Private Network).<br
 
 - Windows App
 
+
+
+<h2>What is a VPN</h2>
+
+ A VPN (Virtual Private Network) creates a secure, encrypted tunnel for your internet traffic, hiding your online activity, identity, and location by routing it through a remote server. It gives the appearance that you're browsing from the server's location instead of your own.
+
+ 
+
+
 <h2>Installation Steps</h2>
 
 <p>
@@ -31,7 +40,7 @@ This tutorial outlines the installation of a A VPN (Virtual Private Network).<br
 
 <p>
 
-To begin you are going to go to whatismyipaddress.com to observe and confirm what your IP address is.
+ To begin you are going to go to whatismyipaddress.com to observe and confirm what your IP address is.
 
 </p>
 
@@ -54,7 +63,7 @@ To begin you are going to go to whatismyipaddress.com to observe and confirm wha
 
 <p>
 
-After getting your IP address along with the additional information of the city and country it would be best to use a note pad or your computers note feature to keep track of it so we can come back to it later.
+ After getting your IP address along with the additional information of the city and country it would be best to use a note pad or your computers note feature to keep track of it so we can come back to it later.
 
 <br />
 
@@ -81,7 +90,7 @@ After getting your IP address along with the additional information of the city 
 
 <p>
 
-Now go into your browser and go into azure so we can create a virtual machine. These next steps would help in completing your virtual machine 
+ Now go into your browser and go into azure so we can create a virtual machine. These next steps would help in completing your virtual machine 
 - Create a new resource group and name it whatever’s best for you. 
 - In the region put a different location( in this example its going to be Africa)
 - In the image category put windows 11 or 10 if it is there.
@@ -100,7 +109,7 @@ Now go into your browser and go into azure so we can create a virtual machine. T
 
 <p>
 
-After refreshing Your VM page you should see your new Virtual machine. if you click it on the right hand side you will see your ip address for the VM
+ After refreshing Your VM page you should see your new Virtual machine. if you click it on the right hand side you will see your ip address for the VM
 
 <br />
 
@@ -118,7 +127,7 @@ After refreshing Your VM page you should see your new Virtual machine. if you cl
 
 <p>
 
-With the virtual machine created go into the windows app and click the plus int he corner to add a new PC. In the Pc name section place the Ip address for the virtual machine and whatever name works for you in th friendly name section. Add the new pc and connect to it with the username and password you created.
+ With the virtual machine created go into the windows app and click the plus int he corner to add a new PC. In the Pc name section place the Ip address for the virtual machine and whatever name works for you in th friendly name section. Add the new pc and connect to it with the username and password you created.
 
 <br />
 
@@ -136,7 +145,7 @@ With the virtual machine created go into the windows app and click the plus int 
 
 <p>
 
-Now you should be logged into the virtual machine, use  the Microsoft edge web browser to visit whatismyipaddress.com to get the new information thats specific to the virtual machine. After getting all the information including the ip address, the region, country etc, Copy it down so we can reference it later. 
+ Now you should be logged into the virtual machine, use  the Microsoft edge web browser to visit whatismyipaddress.com to get the new information thats specific to the virtual machine. After getting all the information including the ip address, the region, country etc, Copy it down so we can reference it later. 
 
 <br />
 
@@ -158,7 +167,7 @@ Now you should be logged into the virtual machine, use  the Microsoft edge web b
 
 <p>
 
-Now going back to your actual computer we are going to sign up for the free version of Proton VPN. After the signup process is completed go back into the virtual machine and log into Proton VPN there. Once signed in download proton VPN to your computer(mac or windows).
+ Now going back to your actual computer we are going to sign up for the free version of Proton VPN. After the signup process is completed go back into the virtual machine and log into Proton VPN there. Once signed in download proton VPN to your computer(mac or windows).
 
 <br />
 
@@ -173,21 +182,27 @@ Now going back to your actual computer we are going to sign up for the free vers
 
 <p>
 
-Once downloaded on the VM desktop open Proton VPN. You should see boxes where you should put your sign in info.
+ Once downloaded on the VM desktop open Proton VPN. You should see boxes where you should put your sign in info.
 
- Because this is the free version of Proton VPN you have less control over the servers you get assigned to but overall you should be placed in the fastest available server.
+  Because this is the free version of Proton VPN you have less control over the servers you get assigned to but overall you should be placed in the fastest available server.
 
 <br />
 
 <p>
 
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img width="2311" height="1693" alt="image" src="https://github.com/user-attachments/assets/6475e52a-a106-487e-ad5b-238a63d36455" />
+
+
+<img width="2304" height="1648" alt="image" src="https://github.com/user-attachments/assets/aed67cbd-3f3c-4de1-b57d-31256f7eaf8a" />
+
 
 </p>
 
 <p>
 
-Lorem ipsum dolor
+ Based on the server that Proton Connected you to you should see a change in IP addresses location. We can double check this by visiting Whatismyipadress.com to verify the change.
+
+  Using the paper or document we used to write down all the IP address info we can also go back and see how our personal info changed through out the course of this demonstration.
 
 <br />
 
