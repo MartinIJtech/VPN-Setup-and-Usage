@@ -164,13 +164,18 @@ Now going back to your actual computer we are going to sign up for the free vers
 
 <p>
 
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img width="2309" height="1669" alt="image" src="https://github.com/user-attachments/assets/631cb5ef-89a1-4104-ab1b-3dc8f51c0bac" />
+
+
+<img width="2308" height="1744" alt="image" src="https://github.com/user-attachments/assets/adba4735-ab11-41c0-8cff-706dab3d1177" />
 
 </p>
 
 <p>
 
-Lorem ipsum dolor
+Once downloaded on the VM desktop open Proton VPN. You should see boxes where you should put your sign in info.
+
+ Because this is the free version of Proton VPN you have less control over the servers you get assigned to but overall you should be placed in the fastest available server.
 
 <br />
 
