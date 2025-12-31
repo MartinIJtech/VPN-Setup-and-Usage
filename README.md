@@ -118,31 +118,43 @@ After refreshing Your VM page you should see your new Virtual machine. if you cl
 
 <p>
 
-With the virtual machine created go into the windows app and add a new PC.
+With the virtual machine created go into the windows app and click the plus int he corner to add a new PC. In the Pc name section place the Ip address for the virtual machine and whatever name works for you in th friendly name section. Add the new pc and connect to it with the username and password you created.
 
 <br />
 
 <p>
 
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img width="1157" height="900" alt="Screenshot 2025-12-30 at 8 38 35 PM" src="https://github.com/user-attachments/assets/1ab7cba1-abea-444d-a4c7-610eaad48fbb" />
+
+
+<img width="2880" height="1800" alt="image" src="https://github.com/user-attachments/assets/6f530d05-b985-43b3-a95f-53fe5fdefb1b" />
+
+
+<img width="2306" height="1800" alt="image" src="https://github.com/user-attachments/assets/b59797e5-9a94-42eb-9b7a-60f697d940ad" />
 
 </p>
 
 <p>
 
-Lorem ipsum dolor
+Now you should be logged into the virtual machine, use  the Microsoft edge web browser to visit whatismyipaddress.com to get the new information thats specific to the virtual machine. After getting all the information including the ip address, the region, country etc, Copy it down so we can reference it later. 
 
 <br />
 
 <p>
 
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img width="2880" height="1800" alt="image" src="https://github.com/user-attachments/assets/0583fce7-6141-4db3-96d8-fde05e4f0fd1" />
+
+
+<img width="2311" height="1800" alt="image" src="https://github.com/user-attachments/assets/b49d879a-8d2a-472e-aa39-e8edd94d9886" />
+
+
+<img width="2307" height="1701" alt="image" src="https://github.com/user-attachments/assets/9c7ead03-3467-4530-ab6a-a9d58c17686f" />
 
 </p>
 
 <p>
 
-Lorem ipsum dolor
+
 
 <br />
 
